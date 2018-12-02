@@ -1,5 +1,8 @@
-我好菜啊 根本用不来Git
+﻿我好菜啊 根本用不来Git
 I good vegetable a
 aaaa
 bbbcccc
 test
+Git is a distributed version control system.
+Git is free software
+bbbb
